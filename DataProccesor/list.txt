@@ -1,0 +1,7 @@
+/home/peyton/Test/DataProccesor/SDfiles
+1_PT_1.BIN
+1_PT_2.BIN
+1_PT_3.BIN
+1_PT_4.BIN
+1_PT_5.BIN
+1_PT_6.BIN
